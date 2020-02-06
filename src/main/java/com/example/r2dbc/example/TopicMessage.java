@@ -1,11 +1,10 @@
-package com.example.r2dbc.queryactive;
+package com.example.r2dbc.example;
 
 import java.util.Comparator;
 import lombok.Builder;
 import lombok.ToString;
 import lombok.Value;
 import org.springframework.data.annotation.Id;
-
 
 @Builder
 @Value
